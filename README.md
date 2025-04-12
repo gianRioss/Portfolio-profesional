@@ -46,16 +46,27 @@ Combino formación técnica con metodologías ágiles para crear soluciones inno
   - Minería de Datos  
   - Modelos Analíticos  
   - Programación Orientada a la Minería de Datos  
-  - Laboratorio de Recopilación e Integración de Datos  
+  - Laboratorio de Recopilación e Integración de Datos
+  - ---
+
+### 🎨 Curso de Diseño UX/UI  
+**Centro Universitario de Vicente López**  
+Fundamentos del diseño centrado en el usuario, wireframes, prototipado y herramientas como Figma.
+
+---
+
+### 🧪 Curso de Testing QA  
+**Centro Universitario de Vicente López**  
+Pruebas funcionales, escritura de casos de prueba y control de calidad del software.
 
 ---
 
 ## 🌱 **Enfoque Actual**  
 - 🤖 Aprendizaje automático (*Machine Learning*)  
 - 📈 Técnicas avanzadas de análisis de datos  
-- ⚡ Optimización de procesos con IA  
+- ⚡ Optimización de procesos con IA
+- ---
 
----
 
 ## 🚀 **Proyectos**  
 
