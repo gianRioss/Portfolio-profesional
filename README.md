@@ -69,6 +69,17 @@ Pruebas funcionales, escritura de casos de prueba y control de calidad del softw
 
 
 ## 🚀 **Proyectos**  
+### 💸 Análisis de Billeteras Virtuales en Argentina
+
+**Herramientas**: Python, Power BI, Excel  
+**Descripción**:  
+Proyecto académico donde se analiza el crecimiento, adopción y comportamiento de uso de billeteras virtuales en Argentina entre 2019 y 2024.  
+• Dataset simulado con +100.000 transacciones  
+• Segmentación por edad, género, provincia y rubros de consumo  
+• Visualización de KPIs en Power BI  
+
+🔗 [Ver repositorio](https://github.com/gianRioss/billeteras-virtuales-argentina)
+
 
 ### 📈 Análisis de Datos de Ventas (En progreso)  
 - **Herramientas**: Python, Pandas, Matplotlib  
