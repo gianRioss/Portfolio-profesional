@@ -81,8 +81,8 @@ Pruebas funcionales, escritura de casos de prueba y control de calidad del softw
 ---
 
 ## 📫 **Contacto**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gianmarco-rios)  
-- ✉️ [Correo electrónico](mailto:gianluca132203@gmail.com)  
+- 🔗 [LinkedIn](www.linkedin.com/in/gianmarco-mauricio)  
+- ✉️ [Correo electrónico](gianluca132203@gmail.com)  
 
 ---
 
