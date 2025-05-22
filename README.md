@@ -124,7 +124,7 @@ Este proyecto implementa un análisis exploratorio y predictivo sobre un conjunt
 ## 📫 **Contacto**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gianmarco-mauricio)  
 - ✉️ [Correo electrónico](mailto:gianluca132203@gmail.com)
-
+- 📱 1125068490 (*WhatsApp disponible*)
 ---
 
 ⚡ **Fuera del código**:  
