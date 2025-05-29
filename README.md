@@ -1,4 +1,3 @@
-
 # gianRioss-  
 _"Mi Perfil De GitHub"_
 
@@ -35,11 +34,12 @@ _"Mi Perfil De GitHub"_
 - Herramientas: Selenium, Postman, Jira
 
 ### 📊 Ciencia de Datos
-- Python, Pandas, NumPy, Matplotlib
+- Python, Pandas, NumPy, Matplotlib, Seaborn
 - SQL, MySQL, PostgreSQL
-- Análisis Exploratorio de Datos (EDA)
-- Visualización y limpieza de datos
+- EDA y Visualización avanzada
+- Limpieza y transformación de datos
 - Scikit-learn, modelado predictivo
+- YData Profiling para informes en HTML
 - Metodologías ágiles (Scrum, Kanban)
 
 ---
@@ -89,9 +89,10 @@ Pruebas funcionales, casos de prueba y control de calidad de software.
 ## 🚀 Proyectos
 
 ### 🧠 Análisis de Desgaste Laboral – IBM HR Analytics  
-**Herramientas:** Python, Pandas, Seaborn, scikit-learn, Google Colab  
+**Herramientas:** Python, Pandas, Seaborn, Scikit-learn, YData Profiling, Google Colab  
 📌 *Exploración y predicción de deserción laboral en datos sintéticos de IBM.*  
-🔗 [Ver repositorio del proyecto](https://github.com/gianRioss/Analisis-desgaste-laboral-IBM)
+🔍 *Incluye informe automático generado en HTML (`reporte.html`) con análisis de correlación, tipos de datos, variables faltantes y duplicadas.*  
+🔗 [Ver repositorio del proyecto](https://github.com/gianRioss/ibm-rrhh-attrition-analysis)
 
 ### 💸 Análisis de Billeteras Virtuales en Argentina (2019–2024)  
 **Herramientas:** Python, Power BI, Excel  
@@ -124,4 +125,5 @@ Pruebas funcionales, casos de prueba y control de calidad de software.
 
 ## ⚡ Fuera del Código
 
-Soy un apasionado del MMA, el gimnasio y el aprendizaje constante. 🥋🏋️‍♂️📚  
+Soy un apasionado del MMA, el gimnasio y el aprendizaje constante. 🥋🏋️‍♂️📚
+
