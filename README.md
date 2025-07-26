@@ -1,46 +1,29 @@
-# gianRioss-  
-_"Mi Perfil De GitHub"_
+# 👋 ¡Hola! Soy Gianmarco Mauricio Ríos
 
-## 👋 ¡Hola! Soy Gianmarco Mauricio Ríos
+[![GitHub](https://img.shields.io/badge/GitHub-gianRioss-black?logo=github)](https://github.com/gianRioss) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/gianmarco-mauricio) &nbsp; [![Email](https://img.shields.io/badge/Email-gianluca132203@gmail.com-green?logo=gmail)](mailto:gianluca132203@gmail.com)
 
-📚 **Estudiante de Ciencia de Datos e Inteligencia Artificial**  
-🚀 Aspirante a Data Scientist & Desarrollador Web Full Stack
+---
+
+## 🚀 Sobre mí
+
+Soy **estudiante avanzado de Ciencia de Datos e Inteligencia Artificial**, con fuerte interés en la integración de datos, el análisis predictivo y el desarrollo web moderno.  
+Me apasiona transformar información en soluciones reales combinando creatividad, tecnología y visión de producto.
 
 📍 Vicente López, Buenos Aires, Argentina  
-💡 Apasionado por la intersección entre datos, tecnología, diseño y soluciones web.  
-✨ Combino formación técnica, creatividad y metodologías ágiles para resolver problemas reales.
+💡 Creativo, proactivo, y siempre buscando aprender algo nuevo.
 
 ---
 
 ## 💼 Habilidades Técnicas
 
-### 🎨 Diseño UX/UI
-- Investigación de usuarios
-- Prototipado (Figma / Adobe XD)
-- Accesibilidad y experiencia de usuario
-
-### 🌐 Desarrollo Web (Frontend & Backend)
-- HTML / CSS / JavaScript
-- React.js, Tailwind CSS
-- Node.js, Express
-- MongoDB, Firebase, MySQL
-- Autenticación, formularios, envío de correos
-- Deploy con GitHub Pages y Vercel
-- Integración de Google Analytics y Tag Manager
-
-### 🧪 QA Testing
-- Testing funcional
-- Casos de prueba
-- Herramientas: Selenium, Postman, Jira
-
-### 📊 Ciencia de Datos
-- Python, Pandas, NumPy, Matplotlib, Seaborn
-- SQL, MySQL, PostgreSQL
-- EDA y Visualización avanzada
-- Limpieza y transformación de datos
-- Scikit-learn, modelado predictivo
-- YData Profiling para informes en HTML
-- Metodologías ágiles (Scrum, Kanban)
+- **Diseño UX/UI:** Investigación, prototipado (Figma, Adobe XD), accesibilidad
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
+- **Backend:** Node.js, Express, MongoDB, Firebase, MySQL
+- **Testing:** Selenium, Postman, QA funcional
+- **Ciencia de Datos:** Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
+- **SQL:** MySQL, PostgreSQL, consultas y modelado
+- **Data Viz & Reporting:** Power BI, YData Profiling
+- **Agilidad:** Scrum, Kanban, trabajo colaborativo
 
 ---
 
@@ -55,75 +38,78 @@ _"Mi Perfil De GitHub"_
 - Bases de Datos
 - Recopilación e Integración de Datos
 - Metodologías Ágiles
-
-📚 **Cursando actualmente:**
 - Análisis Matemático
 - Minería de Datos
 - Modelos Analíticos
 - Programación Orientada a la Minería de Datos
 - Laboratorio de Recopilación e Integración de Datos
 
----
+📚 **Cursando actualmente:**
+- Aprendizaje Automático I
+- Base de Datos no Relacionales
+- Estadística y Probabilidad
+- Laboratorio de Modelo Analítico para la Toma de Decisiones
+- Minería de Datos II
 
-## 🛠️ Cursos Complementarios
+**Cursos complementarios:**
+- UX/UI Design — Centro Universitario Vicente López (Figma, diseño centrado en usuario)
+- QA Testing — Centro Universitario Vicente López (pruebas funcionales, casos de uso)
+- Data Analytics y Visualización — Educación IT  
+  [Ver certificado](https://www.educacionit.com/perfil/jose-gianmarco-mauricio-rios-100830/certificado/74209?_gl=1*e06lhd*_ga*MTQ2NDc0NzY1Ni4xNzI0MTkzODIy*_ga_R8GR8LL2B8*czE3NTM1NjYxMjAkbzIwJGcxJHQxNzUzNTY3Mjk0JGo0NCRsMCRoMTMxMTk3NTIwNg..)
 
-### 🎨 Curso de Diseño UX/UI  
-📍 Centro Universitario de Vicente López  
-Fundamentos del diseño centrado en el usuario, wireframes y prototipado con Figma.
-
-### 🧪 Curso de Testing QA  
-📍 Centro Universitario de Vicente López  
-Pruebas funcionales, casos de prueba y control de calidad de software.
-
----
-
-## 🎯 Enfoque Actual
-
-- 🤖 Aprendizaje Automático (Machine Learning)
-- 📈 Análisis avanzado de datos
-- ⚡ Optimización de procesos con IA
-- 🌐 Desarrollo Web con Backend integrado
 
 ---
 
-## 🚀 Proyectos
+## 🏆 Proyectos Destacados
 
-### 🧠 Análisis de Desgaste Laboral – IBM HR Analytics  
-**Herramientas:** Python, Pandas, Seaborn, Scikit-learn, YData Profiling, Google Colab  
-📌 *Exploración y predicción de deserción laboral en datos sintéticos de IBM.*  
-🔍 *Incluye informe automático generado en HTML (`reporte.html`) con análisis de correlación, tipos de datos, variables faltantes y duplicadas.*  
-🔗 [Ver repositorio del proyecto](https://github.com/gianRioss/ibm-rrhh-attrition-analysis)
+### 💬 Minería de Opinión en WhatsApp con R y Power BI
+> **R, Power BI, GitHub**  
+> Análisis de sentimientos y emociones a partir de mensajes de un grupo de WhatsApp, utilizando procesamiento de lenguaje natural en R (paquete syuzhet) y visualización interactiva en Power BI.  
+> El objetivo es detectar patrones emocionales y de participación, segmentando resultados por autor, día y tipo de emoción.  
+> [Repositorio](https://github.com/gianRioss/Portfolio-profesional)
 
-### 💸 Análisis de Billeteras Virtuales en Argentina (2019–2024)  
-**Herramientas:** Python, Power BI, Excel  
-📌 *Estudio de crecimiento, adopción y comportamiento de billeteras virtuales.*  
-🔗 [Ver repositorio](https://github.com/gianRioss/Analisis-billeteras-virtuales)
+**Tecnologías y funcionalidades:**
+- Limpieza y tokenización de texto en R
+- Análisis de sentimientos (syuzhet, bing, afinn, nrc)
+- Extracción y visualización de emociones básicas (alegría, miedo, ira, sorpresa, etc.)
+- Clasificación de mensajes como positivos, negativos o neutros
+- Visualización dinámica e interactiva en Power BI
 
-### 🌐 Portfolio Profesional Web  
-**Herramientas:** React, Tailwind, Framer Motion, EmailJS, GitHub Pages, Google Analytics  
-📌 *Diseñado como CV interactivo con backend para formulario de contacto.*  
-🔗 [Ver sitio](https://gianriosss.github.io/portafolio-web/)  
-🔗 [Ver repositorio](https://github.com/gianRioss/portafolio-web)
 
-### 📈 Análisis de Datos de Ventas (En progreso)  
-**Herramientas:** Python, Pandas, Matplotlib  
-📌 *Visualización de ventas minoristas y segmentación de productos.*
+### 🧠 IBM HR Analytics: Análisis de Desgaste Laboral
+> **Python, Pandas, Seaborn, scikit-learn, Google Colab, YData Profiling**  
+> Exploración y predicción de deserción laboral en datos sintéticos de IBM.  
+> [Repositorio](https://github.com/gianRioss/ibm-rrhh-attrition-analysis)
 
-### 🏋️ Rediseño de App Fitness (UX/UI)  
-**Herramientas:** Figma  
-📌 *Prototipo móvil centrado en experiencia de usuario.*
+### 💸 Billeteras Virtuales en Argentina (2019–2024)
+> **Python, Power BI, Excel**  
+> Análisis de adopción y comportamiento del sector fintech.  
+> [Repositorio](https://github.com/gianRioss/Analisis-billeteras-virtuales)
+
+### 🌐 Portfolio Web Profesional
+> **React, Tailwind, Framer Motion, EmailJS, GitHub Pages**  
+> Sitio interactivo con CV, animaciones y formulario de contacto.  
+> [Sitio](https://gianriosss.github.io/portafolio-web/) | [Código](https://github.com/gianRioss/portafolio-web)
+
+### 📈 Análisis de Ventas (En progreso)
+> **Python, Pandas, Matplotlib**  
+> Visualización de ventas y segmentación de productos.
+
+### 🏋️ App Fitness (Rediseño UX/UI)
+> **Figma**  
+> Prototipo de experiencia móvil para fitness.
 
 ---
 
 ## 📬 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/gianmarco-mauricio)  
-- [Correo electrónico](mailto:gianluca132203@gmail.com)  
-- 📱 WhatsApp: 1125068490
+- [Email](mailto:gianluca132203@gmail.com)  
+- 📱 WhatsApp: 1125068490  
 
 ---
 
-## ⚡ Fuera del Código
+> _“La mejor manera de predecir el futuro es crearlo.”_
 
-Soy un apasionado del MMA, el gimnasio y el aprendizaje constante. 🥋🏋️‍♂️📚
+---
 
