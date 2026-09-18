@@ -1,115 +1,199 @@
-# 👋 ¡Hola! Soy Gianmarco Mauricio Ríos
+# 👋 Hola, soy Gianmarco Ríos
 
-[![GitHub](https://img.shields.io/badge/GitHub-gianRioss-black?logo=github)](https://github.com/gianRioss) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/gianmarco-mauricio) &nbsp; [![Email](https://img.shields.io/badge/Email-gianluca132203@gmail.com-green?logo=gmail)](mailto:gianluca132203@gmail.com)
+### Junior Data Engineer | Python | SQL | ETL/ELT | GCP | BigQuery | Docker
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gianmarco_Ríos-blue?logo=linkedin)](https://www.linkedin.com/in/gianmarcorios)
+[![GitHub](https://img.shields.io/badge/GitHub-gianRioss-black?logo=github)](https://github.com/gianRioss)
+[![Email](https://img.shields.io/badge/Email-Contacto-green?logo=gmail)](mailto:gianluca132203@gmail.com)
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy **estudiante avanzado de Ciencia de Datos e Inteligencia Artificial**, con fuerte interés en la integración de datos, el análisis predictivo y el desarrollo web moderno.  
-Me apasiona transformar información en soluciones reales combinando creatividad, tecnología y visión de producto.
+Soy Técnico en **Ciencia de Datos e Inteligencia Artificial**, orientado actualmente a **Data Engineering**.
 
-📍 Vicente López, Buenos Aires, Argentina  
-💡 Creativo, proactivo, y siempre buscando aprender algo nuevo.
+Me interesa diseñar soluciones que permitan extraer, transformar, validar, almacenar y disponibilizar datos de manera confiable para análisis y toma de decisiones.
+
+Actualmente estoy fortaleciendo mi perfil en:
+
+- Data Engineering
+- Python para ETL
+- SQL y modelado de datos
+- Google Cloud Platform
+- BigQuery
+- Arquitecturas de datos
+- Automatización de pipelines
+
+También cuento con experiencia práctica en proyectos de Machine Learning, MLOps, APIs, Docker, monitoreo y visualización de datos.
+
+📍 Buenos Aires, Argentina
 
 ---
 
-## 💼 Habilidades Técnicas
+## 🛠️ Stack técnico
 
-- **Diseño UX/UI:** Investigación, prototipado (Figma, Adobe XD), accesibilidad
-- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
-- **Backend:** Node.js, Express, MongoDB, Firebase, MySQL
-- **Testing:** Selenium, Postman, QA funcional
-- **Ciencia de Datos:** Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
-- **SQL:** MySQL, PostgreSQL, consultas y modelado
-- **Data Viz & Reporting:** Power BI, YData Profiling
-- **Agilidad:** Scrum, Kanban, trabajo colaborativo
+### Data Engineering
+- Python
+- SQL
+- Pandas
+- ETL / ELT
+- Data Cleaning
+- Data Quality
+- Modelado relacional
+- PostgreSQL
+- MySQL
+
+### Cloud & Infrastructure
+- Google Cloud Platform
+- BigQuery
+- Docker
+- Git
+- GitHub
+
+### Backend & MLOps
+- FastAPI
+- MLflow
+- DVC
+- Prometheus
+- Grafana
+- Evidently
+- pytest
+
+### Analytics
+- Power BI
+- R
+- NumPy
+- Matplotlib
+- scikit-learn
 
 ---
 
-## 🎓 Formación Académica
+# ⭐ Proyectos destacados
 
-**Tecnicatura en Ciencia de Datos e IA**  
-📍 ISTEA (Instituto Superior Tecnológico Empresarial Argentino)
+## 🏪 JStyles Data Platform — Data Engineering Project
 
-✔️ **Materias aprobadas:**
-- Matemática
-- Programación
+Plataforma de datos desarrollada a partir de información operativa real de una barbería.
+
+El proyecto integra datos de:
+
+- ventas de servicios
+- clientes
+- productos
+- inventario
+- compras
+- gastos
+- tarifas históricas
+- comisiones
+
+Actualmente estoy desarrollando procesos ETL con Python para extracción, limpieza, normalización, validación y estructuración de los datos.
+
+### Tecnologías
+
+`Python` `Pandas` `ETL` `Data Quality` `Git` `GitHub`
+
+### Objetivo
+
+Evolucionar el sistema operativo basado en hojas de cálculo hacia una plataforma de datos automatizada y preparada para análisis.
+
+🔗 [Ver repositorio](https://github.com/gianRioss/jstyles-data-platform)
+
+---
+
+## 🤖 Customer Churn Prediction — MLOps Project
+
+Proyecto end-to-end de Machine Learning para predicción de abandono de clientes.
+
+Incluye:
+
+- preparación y procesamiento de datos
+- entrenamiento y comparación de modelos
+- API con FastAPI
+- interfaz con Streamlit
+- contenerización con Docker
+- tests automatizados
+- versionado con DVC
+- experiment tracking con MLflow
+- monitoreo con Prometheus y Grafana
+- detección de data drift con Evidently
+
+### Tecnologías
+
+`Python` `scikit-learn` `FastAPI` `Docker` `MLflow` `DVC` `Prometheus` `Grafana` `Evidently`
+
+---
+
+## 🧠 IBM HR Analytics
+
+Análisis y modelado del desgaste laboral utilizando datos de IBM.
+
+El proyecto incluye análisis exploratorio, procesamiento de datos y modelos predictivos para estudiar los factores relacionados con la rotación de empleados.
+
+### Tecnologías
+
+`Python` `Pandas` `scikit-learn` `Matplotlib`
+
+🔗 [Ver repositorio](https://github.com/gianRioss/ibm-rrhh-attrition-analysis)
+
+---
+
+## 💸 Billeteras Virtuales en Argentina
+
+Proyecto de análisis de datos sobre la evolución y adopción de billeteras virtuales en Argentina.
+
+### Tecnologías
+
+`Python` `Power BI` `Excel`
+
+🔗 [Ver repositorio](https://github.com/gianRioss/Analisis-billeteras-virtuales)
+
+---
+
+## 🎓 Formación
+
+### Tecnicatura en Ciencia de Datos e Inteligencia Artificial
+**ISTEA — Instituto Superior Tecnológico Empresarial Argentino**
+
+Formación en:
+
+- Python
+- SQL
 - Bases de Datos
-- Recopilación e Integración de Datos
-- Metodologías Ágiles
-- Análisis Matemático
+- Estadística
+- Machine Learning
 - Minería de Datos
 - Modelos Analíticos
-- Programación Orientada a la Minería de Datos
-- Laboratorio de Recopilación e Integración de Datos
-
-📚 **Cursando actualmente:**
-- Aprendizaje Automático I
-- Base de Datos no Relacionales
-- Estadística y Probabilidad
-- Laboratorio de Modelo Analítico para la Toma de Decisiones
-- Minería de Datos II
-
-**Cursos complementarios:**
-- UX/UI Design — Centro Universitario Vicente López (Figma, diseño centrado en usuario)
-- QA Testing — Centro Universitario Vicente López (pruebas funcionales, casos de uso)
-- Data Analytics y Visualización — Educación IT  
-  [Ver certificado](https://www.educacionit.com/perfil/jose-gianmarco-mauricio-rios-100830/certificado/74209?_gl=1*e06lhd*_ga*MTQ2NDc0NzY1Ni4xNzI0MTkzODIy*_ga_R8GR8LL2B8*czE3NTM1NjYxMjAkbzIwJGcxJHQxNzUzNTY3Mjk0JGo0NCRsMCRoMTMxMTk3NTIwNg..)
-
+- Integración de Datos
+- Bases de Datos No Relacionales
+- MLOps
 
 ---
 
-## 🏆 Proyectos Destacados
+## 📚 Actualmente aprendiendo
 
-### 💬 Minería de Opinión en WhatsApp con R y Power BI
-> **R, Power BI, GitHub**  
-> Análisis de sentimientos y emociones a partir de mensajes de un grupo de WhatsApp, utilizando procesamiento de lenguaje natural en R (paquete syuzhet) y visualización interactiva en Power BI.  
-> El objetivo es detectar patrones emocionales y de participación, segmentando resultados por autor, día y tipo de emoción.  
-> [Repositorio](https://github.com/gianRioss/Portfolio-profesional)
+☁️ **Google Cloud Engineer**
 
-**Tecnologías y funcionalidades:**
-- Limpieza y tokenización de texto en R
-- Análisis de sentimientos (syuzhet, bing, afinn, nrc)
-- Extracción y visualización de emociones básicas (alegría, miedo, ira, sorpresa, etc.)
-- Clasificación de mensajes como positivos, negativos o neutros
-- Visualización dinámica e interactiva en Power BI
+Profundizando en servicios de Google Cloud orientados a infraestructura, almacenamiento, procesamiento y arquitecturas cloud.
 
+📊 **Análisis de Datos con R**
 
-### 🧠 IBM HR Analytics: Análisis de Desgaste Laboral
-> **Python, Pandas, Seaborn, scikit-learn, Google Colab, YData Profiling**  
-> Exploración y predicción de deserción laboral en datos sintéticos de IBM.  
-> [Repositorio](https://github.com/gianRioss/ibm-rrhh-attrition-analysis)
-
-### 💸 Billeteras Virtuales en Argentina (2019–2024)
-> **Python, Power BI, Excel**  
-> Análisis de adopción y comportamiento del sector fintech.  
-> [Repositorio](https://github.com/gianRioss/Analisis-billeteras-virtuales)
-
-### 🌐 Portfolio Web Profesional
-> **React, Tailwind, Framer Motion, EmailJS, GitHub Pages**  
-> Sitio interactivo con CV, animaciones y formulario de contacto.  
-> [Sitio](https://gianriosss.github.io/portafolio-web/) | [Código](https://github.com/gianRioss/portafolio-web)
-
-### 📈 Análisis de Ventas (En progreso)
-> **Python, Pandas, Matplotlib**  
-> Visualización de ventas y segmentación de productos.
-
-### 🏋️ App Fitness (Rediseño UX/UI)
-> **Figma**  
-> Prototipo de experiencia móvil para fitness.
+Profundizando en procesamiento, análisis y explotación de datos utilizando R.
 
 ---
 
-## 📬 Contacto
+## 🎯 Objetivo profesional
 
-- [LinkedIn](https://www.linkedin.com/in/gianmarco-mauricio)  
-- [Email](mailto:gianluca132203@gmail.com)  
-- 📱 WhatsApp: 1125068490  
+Actualmente busco mi primera oportunidad profesional como:
+
+**Junior Data Engineer / Data Engineer Trainee**
+
+Me interesa participar en proyectos donde pueda trabajar con:
+
+`Python` · `SQL` · `ETL/ELT` · `Data Pipelines` · `Cloud` · `BigQuery` · `Data Warehousing`
 
 ---
 
-> _“La mejor manera de predecir el futuro es crearlo.”_
+## 📫 Contacto
 
----
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/gianmarcorios)
+- 💻 [GitHub](https://github.com/gianRioss)
+- 📧 [Email](mailto:gianluca132203@gmail.com)
